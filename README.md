@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/QuizeCapital/QuizeCapital](https://github.com/QuizeCapital/QuizeCapital)
 
-- 📝 I regularly write articles on Diverse topics at : [https://www.linkedin.com/in/adams-zequi-35761664/overlay/1635454006075/single-media-viewer?type=LINK&profileId=ACoAAA2eA3MBsevE5ZwvArKqcIib3Y3xHrJnwVk&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZUwB7jASQO2W%2BznbzthbZg%3D%3D]
+- 📝 I regularly write articles on Diverse topics at : https://www.linkedin.com/in/adams-zequi-35761664/overlay/1635454006075/single-media-viewer?type=LINK&profileId=ACoAAA2eA3MBsevE5ZwvArKqcIib3Y3xHrJnwVk&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZUwB7jASQO2W%2BznbzthbZg%3D%3D & https://www.linkedin.com/in/adams-zequi-35761664/overlay/1635454004190/single-media-viewer?type=LINK&profileId=ACoAAA2eA3MBsevE5ZwvArKqcIib3Y3xHrJnwVk&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZUwB7jASQO2W%2BznbzthbZg%3D%3D
 
 - 💬 Ask me about **Python, R, Matlab,**
 
